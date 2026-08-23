@@ -1,18 +1,3 @@
----
-
-title: 世界観概要
-category: OVERVIEW
-status: PROVISIONAL
-updated: 2026-08-23
-related:
-
-* CHORUS
-* IDOL
-* コミア
-* サルベージ
-
----
-
 # 世界観概要
 
 ## 概要
