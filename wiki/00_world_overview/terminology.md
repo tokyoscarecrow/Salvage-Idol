@@ -147,6 +147,7 @@ IDOLという名称はアクロニムであり、一般的な語としての「i
 
 詳細：`04_technology/artificial_womb.md`
 
+---
 
 ### 新生児センター
 
