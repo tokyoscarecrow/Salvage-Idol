@@ -1,15 +1,15 @@
 ---
-title: 基本用語集
-category: OVERVIEW
-status: PROVISIONAL
-updated: 2026-08-24
+title: "基本用語集"
+category: "OVERVIEW"
+status: "PROVISIONAL"
+updated: "2026-08-25"
 related:
-　- 世界観概要
-  - CHORUS
-  - IDOL
-  - 環
-  - コミア
-  - サルベージ
+  - "世界観概要"
+  - "CHORUS"
+  - "IDOL"
+  - "環"
+  - "コミア"
+  - "サルベージ"
 ---
 
 # 基本用語集
