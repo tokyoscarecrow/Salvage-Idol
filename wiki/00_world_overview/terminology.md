@@ -2,7 +2,7 @@
 title: 基本用語集
 category: OVERVIEW
 status: PROVISIONAL
-updated: "2026-08-24"
+updated: 2026-08-24
 related:
 　- 世界観概要
   - CHORUS
