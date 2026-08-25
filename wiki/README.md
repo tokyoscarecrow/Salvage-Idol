@@ -282,7 +282,7 @@ CANON設定を変更する場合、既存記述を単純に消去するのでは
 ```text
 wiki/
 ├── README.md
-├── 00_overview/
+├── 00_world_overview/
 ├── 01_society/
 ├── 02_chorus/
 ├── 03_idol/
