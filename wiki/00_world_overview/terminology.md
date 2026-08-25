@@ -1,5 +1,4 @@
 ---
-
 title: 基本用語集
 category: OVERVIEW
 status: PROVISIONAL
@@ -11,7 +10,6 @@ related:
   - 環
   - コミア
   - サルベージ
-
 ---
 
 # 基本用語集
